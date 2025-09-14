@@ -27,7 +27,7 @@
 - F1 (class=1): **0.34**  
 - Accuracy: **0.48**
 
-**Yorum:** Model, gecikenleri işaretlerken daha isabetli (precision yüksek) ama azını yakalıyor (recall düşük). Normal kayıtları ayırmada daha güçlü.  
+Model, gecikenleri işaretlerken daha isabetli (precision yüksek) ama azını yakalıyor (recall düşük). Normal kayıtları ayırmada daha güçlü.  
 
 ---
 
